@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import classes from './post-item.module.css';
-import Image from 'next/Image';
+import Image from 'next/image';
 
 // single post item
 const PostItem = (props) => {
