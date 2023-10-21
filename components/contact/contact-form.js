@@ -84,7 +84,10 @@ function ContactForm() {
 
     return (
         <section className={classes.contact}>
-            <h1>How can i help you ?</h1>
+            <h1>Contact Me !</h1>
+            <h6 style={{ textAlign: 'center' }}>
+                The details will be stored in MongoDb
+            </h6>
             <form
                 action=''
                 className={classes.form}

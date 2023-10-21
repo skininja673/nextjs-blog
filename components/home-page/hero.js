@@ -13,7 +13,7 @@ const Hero = () => {
                     height={300}
                 />
             </div>
-            <h1>Hi I am AL</h1>
+            <h1>Hi there !</h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                 Aliquam unde illo accusamus.

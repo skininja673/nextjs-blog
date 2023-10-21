@@ -45,12 +45,12 @@ const PostContent = (props) => {
             return <p>{paragraph.children}</p>;
         },
 
-        code(code) {
-            const { language, value } = code;
-            return (
-                <Prism style={atomDark} language={language} children={value} />
-            );
-        },
+        // code(code) {
+        //     const { language, value } = code;
+        //     return (
+        //         <Prism style={atomDark} language={language} children={value} />
+        //     );
+        // },
     };
     return (
         <article className={classes.content}>
